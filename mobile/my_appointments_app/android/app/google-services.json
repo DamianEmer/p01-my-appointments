@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "387390900086",
+    "firebase_url": "https://clientsflutter.firebaseio.com",
+    "project_id": "clientsflutter",
+    "storage_bucket": "clientsflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387390900086:android:7c576647e88633f6",
+        "android_client_info": {
+          "package_name": "com.example.myappointmentsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387390900086-ekluh8s11flkbr1sb2i4qncvgb93ss6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXB2qOk0L32z7PePRIwlsqXuklg60Feaw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
